@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle projects
+1. Titanic project with Random Forest 
